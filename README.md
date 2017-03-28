@@ -21,6 +21,7 @@ current painpoints:
 
   2. Extendability and Composibility
    - Easy as pie to extend on old or 3rd party components || reuse
+   - Make it super easy to see what is oxygen what is application specific
 
   3. Practises smaller components
    - less logic, less coupling, less less.
@@ -28,6 +29,7 @@ current painpoints:
 
   4. Built in theming (via props not context)
    - could be simple for user based theming as well
+
 
 
 #What I dont like
